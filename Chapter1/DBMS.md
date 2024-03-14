@@ -1,3 +1,7 @@
+[1.DBMS Architecture](#DBMS Architecture)
+[2.Memory - Versus Disk-Based DBMS](#Memory - Versus Disk-Based DBMS)
+[3.Column- Versus Row-Oriented DBMS](#Column- Versus Row-Oriented DBMS)
+
 # DBMS Architecture
 
 <img width="575" alt="스크린샷 2024-03-14 오후 1 47 33" src="https://github.com/sehyun-DBA/Database_internals/assets/160465819/da194e07-792a-4d3a-860e-bbf7e10dcb73">
