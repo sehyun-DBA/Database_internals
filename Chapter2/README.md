@@ -1,3 +1,5 @@
+## Chapter 2. B-Tree Basics
+
 In the previous chapter, we separated storage structures in two groups:
 mutable and immutable ones, and identified immutability as one of the
 core concepts influencing their design and implementation. Most of the
