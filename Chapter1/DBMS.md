@@ -143,7 +143,7 @@ Client 요청은 Query 형태로 transport subsystem을 지나서 데이터베�
 
 <br>
 
-# Memory - Versus Disk-Based DBMS
+# Memory-Versus-Disk-Based-DBMS
 
 데이터베이스 시스템은 주로 메모리와 디스크에 데이터를 저장한다.
 
@@ -208,7 +208,7 @@ NVM 저장소는 읽기 및 쓰기 지연 시간 간의 불균형을 줄이거�
     - checkpointing
         - 로그 내용을 일정 시점에서 폐기하여 복구 시간 최소화
      
-# Column- Versus Row-Oriented DBMS
+# Column-Versus-Row-Oriented-DBMS
 
 <img width="541" alt="스크린샷 2024-03-14 오후 1 48 54" src="https://github.com/sehyun-DBA/Database_internals/assets/160465819/fc3f4499-1a2f-4c2c-bef9-1adf0d0ac756">
 
