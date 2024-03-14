@@ -1,3 +1,5 @@
+# Chapter 1. Introduction and Overview
+
 Database management systems can serve different purposes: some are used primarily for temporary hot data, some serve as a long-lived cold
 storage, some allow complex analytical queries, some only allow accessing values by the key, some are optimized to store time-series data,
 and some store large blobs efficiently. To understand differences and draw distinctions, we start with a short classification and overview, as this helps
