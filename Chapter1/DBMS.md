@@ -1,8 +1,7 @@
 # DBMS Architecture
 
-![스크린샷 2024-02-04 오전 11.19.38.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c6a30f7-0581-4dec-a684-19dc4d80e412/932c9178-a0c9-4d9a-86d9-a6e1505a1ae8/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-02-04_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_11.19.38.png)
+<img width="575" alt="스크린샷 2024-03-14 오후 1 47 33" src="https://github.com/sehyun-DBA/Database_internals/assets/160465819/da194e07-792a-4d3a-860e-bbf7e10dcb73">
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0c6a30f7-0581-4dec-a684-19dc4d80e412/6950ab17-0dfc-482b-9c6c-5e67fcf74de3/Untitled.png)
 
 DBMS는 Client/Server Model 사용하는데 데이터베이스 시스템 인스턴스는 서버의 역할하고 응용 프로그램 인스턴스는 Client 역할을 한다.
 
