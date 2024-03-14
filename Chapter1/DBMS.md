@@ -1,8 +1,8 @@
-[1.DBMS Architecture](#DBMS Architecture)
+[1.DBMS Architecture](#DBMS-Architecture)
 
-[2.Memory - Versus Disk-Based DBMS](#Memory - Versus Disk-Based DBMS)
+[2.Memory - Versus Disk-Based DBMS](#Memory-Versus-Disk-Based-DBMS)
 
-[3.Column- Versus Row-Oriented DBMS](#Column- Versus Row-Oriented DBMS)
+[3.Column- Versus Row-Oriented DBMS](#Column-Versus-Row-Oriented-DBMS)
 
 # DBMS Architecture
 
