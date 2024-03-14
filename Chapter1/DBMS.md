@@ -1,3 +1,11 @@
+## 목차
+
+|제목|내용|
+|------|---|
+|1|[1.DBMS Architecture](#DBMS-Architecture)|
+|2|[2.Memory - Versus Disk-Based DBMS](#Memory-Versus-Disk-Based-DBMS)|
+|3|[3.Column- Versus Row-Oriented DBMS](#Column-Versus-Row-Oriented-DBMS)|
+
 [1.DBMS Architecture](#DBMS-Architecture)
 
 [2.Memory - Versus Disk-Based DBMS](#Memory-Versus-Disk-Based-DBMS)
