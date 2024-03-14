@@ -1,5 +1,12 @@
-<img width="561" alt="스크린샷 2024-03-14 오후 2 03 12" src="https://github.com/sehyun-DBA/Database_internals/assets/160465819/48883cc2-8f5e-4c36-82ff-49431412535f">
+|목차|내용|
+|------|---|
+|1|[1.Data Files and Index Files](#Data-Files-and-Index-Files)|
+|2|[2.Buffering, Immutability, and Ordering](#Buffering-Immutability-and-Ordering)|
+
+
+
 # Data Files and Index Files
+
 <img width="317" alt="스크린샷 2024-03-14 오후 2 01 26" src="https://github.com/sehyun-DBA/Database_internals/assets/160465819/12251c9f-20d0-4ca4-b36f-79de87ab8be8">
 
 
